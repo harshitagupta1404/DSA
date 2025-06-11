@@ -38,3 +38,18 @@ const arr = [-13, 1, 2, 3, 4, 5,-8,-7,-12]
 largest(arr)
 
 // Find second largest number in an array
+    let largest = -Infinity, secondLargest = -Infinity;
+    for (let i = 0; i < arr.length; i++){
+        if (arr[i] > largest) {
+            secondLargest = largest;
+            largest = arr[i];
+        }
+        else if (arr[i] > secondLargest && arr[i]!==largest) {
+            secondLargest = arr[i];
+        }
+    }
+    console.log(secondLargest);
+}
+
+const arr = [-13, 1, 2, 3, 4, 5,-8,-7,-12,5]
+secondLargest(arr)
