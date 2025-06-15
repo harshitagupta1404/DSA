@@ -41,3 +41,4 @@ function star(n) {
     }
 }
 star(5)
+
