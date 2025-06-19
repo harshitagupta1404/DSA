@@ -24,8 +24,5 @@ var isPalindrome = function(x) {
         rev = rev*10 + x%10;
         x = Math.floor(x/10);
     }
-    if(rev==xCopy)
-        return true;
-    else
-        return false;
+    return rev==xCopy;
 };
