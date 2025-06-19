@@ -11,3 +11,21 @@ function countDigit(n) {
 }
 let ctr = countDigit(474);
 console.log(ctr);
+
+// Palindrome
+/**
+ * @param {number} x
+ * @return {boolean}
+ */
+var isPalindrome = function(x) {
+    let rev = 0;
+    let xCopy = x;
+    while (x>0){
+        rev = rev*10 + x%10;
+        x = Math.floor(x/10);
+    }
+    if(rev==xCopy)
+        return true;
+    else
+        return false;
+};
