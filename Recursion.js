@@ -1,6 +1,7 @@
 // You need to 
 // 1. generate the recursion formula 
 // 2. add the final stop condition
+// NOTE - Recursive approach works backwards
 
 // Sum of first n numbers
 let total = sum(7);
