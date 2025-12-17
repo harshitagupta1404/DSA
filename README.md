@@ -20,3 +20,5 @@ Eg - Jewels and Stones problem uses set
 11. <b>Hash map</b>- A data structure that stores unique key-value pair and uses a hash function to enable fast retrieval, insertion and eletion. In O(1). Eg - Python(dict), Java(HashMap), C++(std::unordered_map), JS(Map)
 12. For checking about maps and sets, time complexities, check "Find Most Frequent Vowel and Consonant" in Strings.
 13. If you want to balance something. You can use an approach of +-1.
+14. Strings are immutable in JS and many languages. Hence, to mutate, we need to convert string to array using split. Mutate the array an again convert it to string using join.
+15. 
