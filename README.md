@@ -22,3 +22,8 @@ Eg - Jewels and Stones problem uses set
 13. If you want to balance something. You can use an approach of +-1.
 14. Strings are immutable in JS and many languages. Hence, to mutate, we need to convert string to array using split. Mutate the array an again convert it to string using join.
 15. 
+
+# PRACTICE
+STRINGS
+1. <a href="https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/">Most frequent vowels and consonants</a>
+2. <a href="https://leetcode.com/problems/reverse-string-ii/description/">Reverse string II</a>
