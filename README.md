@@ -18,3 +18,5 @@ Eg - Jewels and Stones problem uses set
 9. '.includes' has a time complexity of O(n)
 10. Strings can have only limited characters and maybe some special characters. That is why we can use sets, maps very frequently for string problems.
 11. <b>Hash map</b>- A data structure that stores unique key-value pair and uses a hash function to enable fast retrieval, insertion and eletion. In O(1). Eg - Python(dict), Java(HashMap), C++(std::unordered_map), JS(Map)
+12. For checking about maps and sets, time complexities, check "Find Most Frequent Vowel and Consonant" in Strings.
+13. If you want to balance something. You can use an approach of +-1.
