@@ -21,9 +21,11 @@ Eg - Jewels and Stones problem uses set
 12. For checking about maps and sets, time complexities, check "Find Most Frequent Vowel and Consonant" in Strings.
 13. If you want to balance something. You can use an approach of +-1.
 14. Strings are immutable in JS and many languages. Hence, to mutate, we need to convert string to array using split. Mutate the array an again convert it to string using join.
-15. 
+15. APPROACHES IN ARRAYS -
+    a. 2 pointer approach
 
 # PRACTICE
 STRINGS
 1. <a href="https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/">Most frequent vowels and consonants</a>
 2. <a href="https://leetcode.com/problems/reverse-string-ii/description/">Reverse string II</a>
+3. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stocks</a>
