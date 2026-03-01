@@ -27,6 +27,7 @@ Eg - Jewels and Stones problem uses set
 # PRACTICE
 ARRAYS
 1. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stocks</a>
+2. <a href="https://leetcode.com/problems/move-zeroes/description/">Move Zeroes</a>
 
 STRINGS
 1. <a href="https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/">Most frequent vowels and consonants</a>
