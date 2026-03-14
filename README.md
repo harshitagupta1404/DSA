@@ -24,6 +24,11 @@ Eg - Jewels and Stones problem uses set
 15. <b>APPROACHES IN ARRAYS -</b>
     a. 2 pointer approach
 
+16. To remove duplicates from an array, we can use Bitwise XOR <br>
+    a (XOR) a = 0 <br>
+    a (XOR) 0 = a <br>
+For example, refer to <a href="https://leetcode.com/problems/single-number/submissions/1948102646/">Single Number</a>
+
 # PRACTICE
 ARRAYS
 1. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stocks</a>
